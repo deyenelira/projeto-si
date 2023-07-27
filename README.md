@@ -13,7 +13,7 @@ Repositório referente ao primeiro projeto da cadeira de Sistemas Inteligentes
 
 ## Como rodar o projeto pelo navegador
 
-[Editor do p5](https://editor.p5js.org/dls6/sketches/cVtLeCX2n)
+[Browser](https://deyenelira.github.io/projeto-si/)
 
 ## Relatório de Post-Mortem
 
